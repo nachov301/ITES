@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GMAIL</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">GMAIL</string>
+    
+    <string name="author">Autor: %S</string>
+    <string name="content">Contenido: %S</string>
+    <string name="subject">Asunto: %S</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="exit_button">Salir</string>
+
+</resources>
